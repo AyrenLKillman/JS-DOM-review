@@ -1,4 +1,4 @@
-background = document.body;
+let background = document.body;
 
 background.style.backgroundColor = "lightblue";
 
